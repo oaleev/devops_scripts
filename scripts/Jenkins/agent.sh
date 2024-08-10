@@ -10,7 +10,7 @@ sudo useradd -d /var/lib/jenkins jenkins
 
 sudo mkdir -p /var/lib/jenkins/.ssh
 
-cd /var/lib/jenikns/.ssh
+cd /var/lib/jenkins/.ssh
 
 sudo ssh-keygen -t rsa -C "agent key" -f "agent_rsa"
 
