@@ -7,4 +7,4 @@ alias ta="terraform apply"
 alias td="terraform destroy"
 alias tf="terraform fmt"
 alias ts="terraform show"
-alias tg="terragrunt
+alias tg="terragrunt"
